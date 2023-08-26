@@ -1,1 +1,1 @@
-This is a small recipe webite created by a student of The Odin Project to demonstrate basic competency in the use and application of HTML.
+This is a small recipe website created by a student of The Odin Project to demonstrate basic competency in the use and application of HTML.
